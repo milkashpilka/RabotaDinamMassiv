@@ -1,0 +1,7 @@
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\bin\Debug\IndividApp2.exe.config
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\bin\Debug\IndividApp2.exe
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\bin\Debug\IndividApp2.pdb
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\obj\Debug\IndividApp2.csproj.AssemblyReference.cache
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\obj\Debug\IndividApp2.csproj.CoreCompileInputs.cache
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\obj\Debug\IndividApp2.exe
+C:\Users\Милена\OneDrive\Рабочий стол\C#\IndividApp2\IndividApp2\obj\Debug\IndividApp2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\bin\Debug\DinamMassivApp3.exe.config
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\bin\Debug\DinamMassivApp3.exe
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\bin\Debug\DinamMassivApp3.pdb
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\obj\Debug\DinamMassivApp3.csproj.AssemblyReference.cache
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\obj\Debug\DinamMassivApp3.csproj.CoreCompileInputs.cache
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\obj\Debug\DinamMassivApp3.exe
+C:\Users\Милена\OneDrive\Рабочий стол\C#\DinamMassivApp3\DinamMassivApp3\obj\Debug\DinamMassivApp3.pdb
